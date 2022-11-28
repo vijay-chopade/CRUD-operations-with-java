@@ -26,5 +26,5 @@ Steps to run project :
         
 10. Now run the porgram in reguler form
 11. goto the Browser and enter this URL " http://localhost:8080/getData " 
-12. Tip :::::::: if you want to work on {Create, Update, Delete} then you need rest api Ex:- POSTMAN
+12. Tip :::::::: if you want to work on {Create, Update, Delete} then you need rest api Ex:- POSTMAN || Vijay Chopade
 13. > - - - R - - - U - - - N - - - I - - - N - - - G 
